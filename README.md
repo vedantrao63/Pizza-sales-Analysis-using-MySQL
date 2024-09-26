@@ -24,7 +24,7 @@ We move the data exploration section. In this section we explore 12 high level b
 
 ### Basic:-
 **Q.** Retrieve the total number of orders placed.  
-**Q.** alculate the total revenue generated from pizza sales.  
+**Q.** Calculate the total revenue generated from pizza sales.  
 **Q.** Identify the highest-priced pizza.  
 **Q.** Identify the most common pizza size ordered.  
 **Q.** List the top 5 most ordered pizza types along with their quantities.
